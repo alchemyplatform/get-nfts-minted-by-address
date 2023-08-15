@@ -14,7 +14,7 @@ Before running the script, ensure that you have [Node.js](https://docs.npmjs.com
 Follow these steps to run the script:
 
 1. Clone this repository to your local machine:
-`git clone https://github.com/alchemyplatform/get-nfts-minted-by-address`
+`git clone https://github.com/alchemyplatform/get-nfts-minted-by-address.git`
 
 
 2. Navigate to the project folder: `cd get-nfts-minted-by-address`
