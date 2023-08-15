@@ -1,0 +1,11 @@
+{
+  "name": "get-nfts-minted-by-address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jrp2212/get-nfts-minted-by-address.git",
+  "license": "MIT",
+  "dependencies": {
+    "alchemy-sdk": "^2.9.2",
+    "dotenv": "^16.3.1"
+  }
+}
